@@ -6,6 +6,7 @@
 I work across the modern data stack: distributed processing, cloud data platforms, real-time streaming, and increasingly **AI-native pipelines** — putting LLMs and RAG *inside* the data flow, not bolted on afterward.
 
 🔭 **Currently exploring:** agentic AI, LLM-powered data enrichment, and stream processing (Flink)
+
 💬 **Ask me about:** Databricks · Snowflake · PySpark · dbt · AWS data platforms
 
 ---

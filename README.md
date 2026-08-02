@@ -3,7 +3,9 @@
 
 **Lead Data Engineer** with 12+ years building large-scale data platforms in financial services — turning raw, messy data into reliable, analytics- and AI-ready products.
 
-I work across the modern data stack: distributed processing, cloud data platforms, real-time streaming, and increasingly **AI-native pipelines** — putting LLMs and RAG *inside* the data flow, not bolted on afterward.
+I work across the modern data stack: distributed processing, cloud data platforms, real-time streaming, and increasingly
+
+**AI-native pipelines** — putting LLMs and RAG *inside* the data flow, not bolted on afterward.
 
 🔭 **Currently exploring:** agentic AI, LLM-powered data enrichment, and stream processing (Flink)
 

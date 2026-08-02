@@ -1,5 +1,34 @@
 # 💫 About Me:
-🌟 About Me :<br><br>🔭 I’m currently working on<br>Building scalable AWS data platforms (Glue, EMR, Lambda, Redshift) and real-time streaming systems using Kafka processing 50M+ transactions/month<br><br>👯 I’m looking to collaborate on<br>Cloud-native data engineering, Spark/Databricks optimization, and modern lakehouse architectures<br><br>🤝 I’m looking for help with<br>Advanced distributed system design & performance tuning at scale<br><br>🌱 I’m currently learning<br>Databricks optimization techniques, Snowflake performance tuning, and advanced PySpark patterns<br><br>💬 Ask me about<br>AWS • Spark • PySpark • Databricks • Snowflake • Kafka • CI/CD for data pipelines<br><br>⚡ Fun fact<br>I optimize data pipelines the same way I optimize investments — performance and efficiency matter.
+🌟 About Me :<br><br>🔭 ### Hi, I'm Piyali 👋
+
+**Lead Data Engineer** with 11+ years building large-scale data platforms in financial services — turning raw, messy data into reliable, analytics- and AI-ready products.
+
+I work across the modern data stack: distributed processing, cloud data platforms, real-time streaming, and increasingly **AI-native pipelines** — putting LLMs and RAG *inside* the data flow, not bolted on afterward.
+
+🔭 **Currently exploring:** agentic AI, LLM-powered data enrichment, and stream processing (Flink)
+💬 **Ask me about:** Databricks · Snowflake · PySpark · dbt · AWS data platforms
+
+---
+
+#### 🛠️ Tech
+**Cloud & Platforms:** AWS (Glue · EMR · Redshift · S3 · Lambda · Step Functions) · Databricks · Snowflake
+**Processing & Streaming:** PySpark · Spark Structured Streaming · Kafka · Delta Lake
+**Transform & Modeling:** dbt · Dimensional Modeling · SQL · PL/SQL
+**AI / LLM:** Claude (tool-use) · RAG · Snowflake Cortex · Vector DBs
+**Ops:** Airflow · Terraform · Git · CI/CD
+
+---
+
+#### 📌 Featured Projects
+**[snowflake-cortex-feedback-analytics](https://github.com/PiyaliDey90/snowflake-cortex-feedback-analytics)** — AI-native analytics pipeline that turns unstructured customer feedback into structured insight using Snowflake Cortex LLM functions (sentiment, classification, summarization) — pure SQL, Medallion architecture.
+
+**[databricks-azure-adls-pipeline-ecommerce](https://github.com/PiyaliDey90/databricks-azure-adls-pipeline-ecommerce)** — End-to-end e-commerce data pipeline on Azure Databricks + ADLS Gen2 + PySpark + Delta Lake, following Medallion (Bronze → Silver → Gold) architecture with Power BI dashboards.
+
+---
+
+#### 📫 Connect
+[LinkedIn](YOUR_LINKEDIN_URL) · 📧 jobs.piyali@gmail.com
+
 
 
 ## 🌐 Socials:
